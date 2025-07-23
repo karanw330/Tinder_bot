@@ -60,4 +60,4 @@ pip install selenium
 - ChromeDriver must match your Chrome version.
 - Tinder frequently updates its site structure, which can break XPaths or selectors in the script.
 - Automating Tinder violates their Terms of Service. This is made purely as a personal project.
-## **Don't be a creep. Be a Coder**
+## **Don't be a creep. Be a Coder.**
